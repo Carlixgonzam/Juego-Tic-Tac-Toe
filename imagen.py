@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-imagen = cv2.imread('1.jpg')
+imagen = cv2.imread('2.jpg')
 
 
 kernel = np.array([[0, -1, 0], 
